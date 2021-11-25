@@ -1,8 +1,6 @@
 <h1 align="center">Hi,I'm Shubh Gupta</h1>
 <h3 align="center">A passionate Computer science undergrad from Delhi.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgupta7&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgupta7" /> </p>
-
 - I’m currently working on **improving my skills and knowledge of computer Science.**
 
 - Currently learning **Basics of C and Python.**
